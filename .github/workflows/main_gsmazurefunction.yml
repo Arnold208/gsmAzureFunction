@@ -41,4 +41,4 @@ jobs:
           app-name: 'gsmAzureFunction'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCF96314243346E3BCD1C2F2DA58BB86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77755C8525F14C73905D3F5202F20E4B }}
